@@ -1,0 +1,16 @@
+UXP Patterns Website 
+** Goal: 
+-To expose few UXP pattern to everyone
+-To create a "knowledge" database for UXP stuff based in a first time on our UXP Pattern.
+
+So we started to build a website, by exporting our patterns from Google Doc to HTML and apply Bootstrap style.
+
+
+** Roadmap:
+- Make the HomePage clearer and more beautiful,
+- Adapt HTML of patterns to make them very clear and easy to read,
+- Adapt pattern to directly use Twitter Bootstrap component (for exemple, for the pagination or for modal errors...)
+- Continue to export other patterns.
+
+A repository named UXP Patterns Website is used to keep track all the work.
+
